@@ -1,0 +1,1 @@
+how about an app which sees a stock trend graph and suggests buy/sell and volume

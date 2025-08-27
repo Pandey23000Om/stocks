@@ -1,0 +1,27 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Deep Learning (pick one or both if you want flexibility)
+tensorflow
+# torch
+# torchvision
+# torchaudio
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Finance & data
+yfinance
+# pandas-datareader
+
+# Jupyter & VSCode integration
+# notebook
+# jupyterlab
+ipykernel
+
+# Optional helpers
+# tqdm
